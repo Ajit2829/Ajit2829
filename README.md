@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Ajit
 ![](https://media-exp1.licdn.com/dms/image/C4E16AQGNW-EON7XWgg/profile-displaybackgroundimage-shrink_350_1400/0/1608886454002?e=1639008000&v=beta&t=bIoAuCrlmgNDqCsXszSr-dhCtfli-0E9UQm8KbRa7x0)
 
-Ajit Chaudhary is a Software Developer having 1.8+ years of experience with good knowledge of HTML5, CSS3, Javascript, and C. Now he is working as a Front-end developer. He is interested in blockchain and related technologies and currently learning it. His hobbies are Reading and explore new places on wheels🏍
+Ajit Chaudhary is a Software Developer having 1.8+ years of experience with good knowledge of HTML5, CSS3, Javascript, and C. Now he is working as a Front-end developer. He is interested in blockchain and related technologies and currently learning it. His hobbies are Reading and explore new places.
 
 Skills: Javascript /C/ HTML / CSS
 
