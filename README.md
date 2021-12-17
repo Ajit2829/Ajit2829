@@ -13,4 +13,4 @@ Skills: Javascript /C/ HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajit2829&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/Ajit2829)  
+![Profile views](https://gpvc.arturio.dev/Ajitchy)  
