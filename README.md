@@ -6,7 +6,7 @@ Ajit Chaudhary is a Software Developer having 1.8+ years of experience with good
 Skills: Javascript /C/ HTML / CSS
 
 - 🔭 I’m currently working at InOwnHome. 
-- 🌱 I’m currently learning Blockchain, NodeJS, ReactJs 
+- 🌱 I’m currently learning Blockchain,Rust, NodeJS, ReactJs 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ajitchy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ajit-chaudhary/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Ajit28298)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17105818/ajit-chaudhary)  
