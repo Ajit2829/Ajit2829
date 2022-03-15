@@ -5,7 +5,7 @@ Ajit Chaudhary is a Software Developer having 1.8+ years of experience with good
 
 Skills: Javascript /C/ HTML / CSS
 
-- 🔭 I’m currently working at InOwnHome. 
+- 🔭 I’m currently working at Aryaverse. 
 - 🌱 I’m currently learning Blockchain,Rust, NodeJS, ReactJs 
 
 
