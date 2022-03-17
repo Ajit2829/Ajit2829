@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Ajit
 ![](https://media-exp1.licdn.com/dms/image/C4E16AQGNW-EON7XWgg/profile-displaybackgroundimage-shrink_350_1400/0/1608886454002?e=1639008000&v=beta&t=bIoAuCrlmgNDqCsXszSr-dhCtfli-0E9UQm8KbRa7x0)
 
-Ajit Chaudhary is a Software Developer having 1.8+ years of experience with good knowledge of Rust, Javascript, and C. Now he is exploring and working on the Rust blockchain framework Polkadot (Substrate). His hobbies are reading and exploring new places.
+Ajit Chaudhary is a Software Developer having 2+ years of experience with good knowledge of Rust, Javascript, and C. Now he is exploring and working on the Rust blockchain framework Polkadot (Substrate). His hobbies are reading and exploring new places.
 
 Skills: Javascript /C/ HTML / CSS
 
