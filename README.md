@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Ajit
 ![](https://media-exp1.licdn.com/dms/image/C4E16AQGNW-EON7XWgg/profile-displaybackgroundimage-shrink_350_1400/0/1608886454002?e=1639008000&v=beta&t=bIoAuCrlmgNDqCsXszSr-dhCtfli-0E9UQm8KbRa7x0)
 
-Experienced software developer with a focus on Rust, and Blockchain. Currently exploring Polkadot (Substrate) in blockchain development. Founder & COO at Aryaverse. Passionate about reading, exploring new places, and pushing technological boundaries.
+Experienced software developer with a focus on ReactJs, Rust, and Blockchain. Currently exploring Polkadot (Substrate) in blockchain development. Passionate about reading, exploring new places, and pushing technological boundaries.
 
 Skills: Rust/ Substrate/ Blockchain / React  
 
