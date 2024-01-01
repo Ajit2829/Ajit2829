@@ -13,4 +13,4 @@ Skills: Rust/ Substrate/ Blockchain / React
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajitchy&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/Ajitchy)  
+![](https://komarev.com/ghpvc/?username=Ajitchy&label=PROFILE+VIEWS)  
