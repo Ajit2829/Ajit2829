@@ -10,7 +10,7 @@ Skills: Rust/ Substrate/ Blockchain / React
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ajitchy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ajit-chaudhary/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Ajit28298)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17105818/ajit-chaudhary)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajitchy&show_icons=true)  
+  
+![Ajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajitchy&show_icons=true)
 
 ![](https://komarev.com/ghpvc/?username=Ajitchy&label=PROFILE+VIEWS)  
